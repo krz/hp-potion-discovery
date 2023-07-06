@@ -463,12 +463,12 @@ Cell[CellGroupData[{
 
 Cell[BoxData[
  RowBox[{"Export", "[", 
-  RowBox[{"\"\</home/c9/test.wl\>\"", ",", "dataClean"}], "]"}]], "Input",
+  RowBox[{"\"\</cleandata.wl\>\"", ",", "dataClean"}], "]"}]], "Input",
  CellChangeTimes->{{3.856497429946355*^9, 3.8564974356410513`*^9}, {
   3.8704898486386557`*^9, 3.870489849573782*^9}},
  CellLabel->"In[54]:=",ExpressionUUID->"9292de22-3dc7-46cc-9fbd-857ea2b1cbc5"],
 
-Cell[BoxData["\<\"/home/c9/test.wl\"\>"], "Output",
+Cell[BoxData["\<\"/cleandata.wl\"\>"], "Output",
  CellChangeTimes->{3.8564973129326468`*^9, 3.856497437223171*^9, 
   3.8594401031597557`*^9, 3.870489860261127*^9, 3.870494433978466*^9, 
   3.8704983280132008`*^9},
