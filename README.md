@@ -1,6 +1,6 @@
 # Code and data for the paper "Machine learning for potion development at Hogwarts"
 
-using a BioBERT model to generate new Harry Potter recipes
+using a BioBERT model to generate new Harry Potter recipes and classify them
 
 requires mathematica 12+
 
